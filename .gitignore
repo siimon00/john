@@ -120,3 +120,5 @@ __pycache__/
 *.pyo
 *.pyd
 **/venv/
+run/md5hash
+run/passwzip
